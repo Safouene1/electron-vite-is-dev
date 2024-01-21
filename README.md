@@ -18,8 +18,8 @@ or
      yarn add electron-is-packaged
 
 ##### Usage
-    // Import ES6 way
-    import { isDev } from 'electron-vite-is-dev';
+    // Import
+    import  isDev  from 'electron-vite-is-dev';
 
     // Import ES5 way
     const isDec = require('electron-vite-is-dev').isDev;
@@ -44,4 +44,4 @@ Requirements: Node.js v6+, Git and npm
 
 electron-vite-is-dev | Get the Electron-Vite Application  Dev status is released under Apache 2.0 License.
 
-Copyright © 2024-Present SaFouen Turki
+Copyright © 2024-Present Safouen Turki
