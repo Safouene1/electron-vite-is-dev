@@ -1,6 +1,6 @@
 {
 	"name": "electron-vite-is-dev",
-	"version": "0.0.1",
+	"version": "1.0.2",
 	"description": "Check if Electron-Vite is running in development",
 	"license": "Apache 2.0",
 	"repository": "Safouene1/electron-vite-is-dev",
