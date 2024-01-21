@@ -19,7 +19,7 @@ or
 
 ##### Usage
     // Import
-    import  isDev  from 'electron-vite-is-dev';
+    import  {isDev} from 'electron-vite-is-dev';
 
     // Import ES5 way
     const isDev = require('electron-vite-is-dev').isDev;
