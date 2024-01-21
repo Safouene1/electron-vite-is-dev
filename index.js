@@ -13,4 +13,4 @@ if (
 }
 
 module.exports.isDev = isDev;
-
+export { isDev };
