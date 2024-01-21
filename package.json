@@ -1,0 +1,45 @@
+{
+	"name": "electron-vite-is-dev",
+	"version": "0.0.1",
+	"description": "Check if Electron-Vite is running in development",
+	"license": "Apache 2.0",
+	"repository": "Safouene1/electron-vite-is-dev",
+	"author": {
+		"name": "Safouen Turki",
+		"email": "tsafouen@gmail.com",
+		"url": "safouen.substack.com"
+	},
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"sideEffects": false,
+	"engines": {
+		"node": ">=18"
+	},
+	"scripts": {
+		"test": "xo && tsd"
+	},
+	"files": [
+		"index.js",
+		"index.d.ts"
+	],
+	"keywords": [
+		"electron",
+		"dev",
+		"electron-vite",
+		"development",
+		"mode",
+		"prod",
+		"production",
+		"detect",
+		"check",
+		"debug",
+		"app"
+	],
+	"devDependencies": {
+		"tsd": "^0.30.3",
+		"xo": "^0.56.0"
+	}
+}
