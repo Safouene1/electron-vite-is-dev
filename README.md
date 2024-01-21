@@ -22,7 +22,7 @@ or
     import  isDev  from 'electron-vite-is-dev';
 
     // Import ES5 way
-    const isDec = require('electron-vite-is-dev').isDev;
+    const isDev = require('electron-vite-is-dev').isDev;
 
 // Output: boolean
 
