@@ -9,6 +9,9 @@
 		"email": "tsafouen@gmail.com",
 		"url": "safouen.substack.com"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/@Safouene1"
+	},
 	"type": "module",
 	"exports": {
 		"types": "./index.d.ts",
